@@ -5,4 +5,7 @@
     <string name="please_select_text">Please select which search engine to use:</string>
     <string name="google_button">Google</string>
     <string name="baidu_button">Baidu</string>
+    <string name="title_activity_search">SearchActivity</string>
+
+    <string name="hello_world">Hello world!</string>
 </resources>
