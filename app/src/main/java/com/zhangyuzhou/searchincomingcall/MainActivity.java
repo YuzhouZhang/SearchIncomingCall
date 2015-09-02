@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
         // Is the button now checked?
         boolean checked = ((RadioButton) view).isChecked();
 
-        // Check which radio button was clicked
+        // Check which radio button is clicked
         switch (view.getId()) {
             case R.id.googleButton:
                 if (checked)
